@@ -1,0 +1,24 @@
+<section id="experience">
+  <h2>💼 Experience</h2>
+  
+  {% for exp in site.data.experience %}
+  <div class="timeline-item">
+    <div class="header">
+      <div>
+        <span class="institution">{{ exp.role }}</span> • {{ exp.institution }}
+        {% if exp.location %} • <span>{{ exp.location }}</span>{% endif %}
+      </div>
+      <span class="date">{{ exp.date }}</span>
+    </div>
+    {% if exp.details %}
+    <div class="details">
+      <ul>
+        {% for detail in exp.details %}
+        <li>{{ detail }}</li>
+        {% endfor %}
+      </ul>
+    </div>
+    {% endif %}
+  </div>
+  {% endfor %}
+</section>

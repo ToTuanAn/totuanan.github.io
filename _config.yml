@@ -1,0 +1,34 @@
+# Site settings
+title: "Tuan-An (Alex) To"
+description: ""
+baseurl: "" # Leave empty for user site (username.github.io), or use "/repo-name" for project site
+url: "https://tato.github.io" # Your final URL
+
+# Theme & plugins (GitHub Pages compatible)
+remote_theme: pages-themes/minimal@v0.2.0 # Optional: or use your own CSS
+plugins:
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+# Build settings
+markdown: kramdown
+sass:
+  style: compressed
+
+# Collections (optional for publications as separate pages)
+collections:
+  publications:
+    output: true
+    permalink: /publications/:path/
+
+# Defaults
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: publication
