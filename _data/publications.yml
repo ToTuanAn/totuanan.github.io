@@ -3,7 +3,7 @@
   venue: "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV)"
   year: 2026
   type: "Conference"
-  image: "/assets/images/publications/marineval_wacv2026"  # ← Add this line
+  image: "/assets/images/publications/marineval_wacv2026.png"  # ← Add this line
   links:
     - text: "[Paper]"
       url: "https://openaccess.thecvf.com/content/WACV2026/papers/Wong_MarineEval_Assessing_the_Marine_Intelligence_of_Vision-Language_Models_WACV_2026_paper.pdf"
@@ -17,7 +17,7 @@
   venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (CVPRW)"
   year: 2024
   type: "Conference"
-  image: "/assets/images/publications/multi_cvpr2024"  # ← Add this line
+  image: "/assets/images/publications/multi_cvpr2024.png"  # ← Add this line
   links:
     - text: "[Paper]"
       url: "https://openaccess.thecvf.com/content/CVPR2024W/AICity/papers/To_Multi-perspective_Traffic_Video_Description_Model_with_Fine-grained_Refinement_Approach_CVPRW_2024_paper.pdf"
