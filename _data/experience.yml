@@ -3,8 +3,8 @@
   location: "Hong Kong"
   date: "Sep 2025 – Present"
   details:
-    - Agentic VLMs for Event-Level Video Reasoning
-    - VLMs for Marine Inteligence
+    - Agentic VLMs for Event-Level Video Reasoning.
+    - VLMs for Marine Inteligence.
 
 - role: "Machine Learning Engineer"
   institution: "ML Business AI Team (MoMo)"
@@ -19,4 +19,5 @@
   location: "Korea"
   date: "Jun 2023 – Aug 2023"
   details:
-    - KAIST Summer Intership Program: Working in Attention-based Generative GAN for Image Translation Project.
+    - KAIST Summer Intership Program.
+    - Working in Attention-based Generative GAN for Image Translation Project.

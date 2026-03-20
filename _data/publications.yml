@@ -36,16 +36,3 @@
       url: "https://dl.acm.org/doi/pdf/10.1145/3628797.3628975"
     - text: "[Code]"
       url: "https://github.com/ToTuanAn/AIC2023"
-
-- title: "AGAIN: A Multimodal Human-Centric Event Retrieval System using dual image-to-text representations"
-  authors: "Minh-Nam Tran, Tuan-An To, Viet-Nhat Thai, Thanh-Duy Cao, Trong-Tin Nguyen"
-  venue: "Proceedings of the 12th International Symposium on Information and Communication Technology (SOICT), 2023"
-  year: 2023
-  type: "Conference"
-  image: 
-  links:
-  links:
-    - text: "[Paper]"
-      url: "https://dl.acm.org/doi/pdf/10.1145/3628797.3628975"
-    - text: "[Code]"
-      url: "https://github.com/ToTuanAn/AIC2023"
