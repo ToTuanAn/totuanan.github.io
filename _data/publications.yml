@@ -1,0 +1,38 @@
+- title: "MarineEval: Assessing the Marine Intelligence of Vision-Language Models"
+  authors: "Yuk Kwan Wong, Tuan-An To, Jipeng Zhang, Ziqiang Zheng, Sai-Kit Yeung"
+  venue: "Proceedings of the IEEE/CVF Winter Conference on Applications of Computer Vision (WACV), 2026"
+  year: 2026
+  type: "Conference"
+  image: "/assets/images/publications/episea-teaser.webp"  # ← Add this line
+  links:
+    - text: "[Paper]"
+      url: "https://openaccess.thecvf.com/content/WACV2026/papers/Wong_MarineEval_Assessing_the_Marine_Intelligence_of_Vision-Language_Models_WACV_2026_paper.pdf"
+    - text: "[Code]"
+      url: "https://github.com/ykwongaq/MarineEval"
+    - text: "[Project]"
+      url: "https://marineeval.hkustvgd.com/"
+
+- title: "Multi-perspective traffic video description model with fine-grained refinement approach"
+  authors: "Tuan-An To, Minh-Nam Tran, Trong-Bao Ho, Thien-Loc Ha, Quang-Tan Nguyen, Hoang-Chau Luong, Thanh-Duy Cao, Minh-Triet Tran"
+  venue: "Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition Workshop (CVPRW), 2024"
+  year: 2024
+  type: "Conference"
+  image: "/assets/images/publications/survey-cover.png"  # ← Add this line
+  links:
+    - text: "[Paper]"
+      url: "https://openaccess.thecvf.com/content/CVPR2024W/AICity/papers/To_Multi-perspective_Traffic_Video_Description_Model_with_Fine-grained_Refinement_Approach_CVPRW_2024_paper.pdf"
+    - text: "[Code]"
+      url: "https://github.com/ToTuanAn/AICityChallenge2024_Track2"
+
+- title: "AGAIN: A Multimodal Human-Centric Event Retrieval System using dual image-to-text representations"
+  authors: "Minh-Nam Tran, Tuan-An To, Viet-Nhat Thai, Thanh-Duy Cao, Trong-Tin Nguyen"
+  venue: "Proceedings of the 12th International Symposium on Information and Communication Technology (SOICT), 2023"
+  year: 2023
+  type: "Conference"
+  image: 
+  links:
+  links:
+    - text: "[Paper]"
+      url: "https://dl.acm.org/doi/pdf/10.1145/3628797.3628975"
+    - text: "[Code]"
+      url: "https://github.com/ToTuanAn/AIC2023"
